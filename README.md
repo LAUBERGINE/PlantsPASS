@@ -1,6 +1,23 @@
 # PlantsPASS
 ## Gestionnaire de Mot de Passe
 
+##Installation
+
+```bash
+git clone git@github.com:LAUBERGINE/PlantsPASS.git
+cd PlantsPASS
+make
+./PlantsPASS
+```
+
+## Mise a jour
+
+```bash
+git pull
+make update
+./PlantsPASS
+```
+
 ## Fonctionnalités
 
 - Ajouter des identifiants
